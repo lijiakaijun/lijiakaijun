@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是lijiakaijun~
+我是lijiakaijun，是男的，人在China
 
-真就什么都不会啦（
+单推鹿乃🦌
+
+真的就什么都不会啦（
 
 都是查资料/自己摸索出来的
 
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 至于为什么这个账号写的是lijiajunljj呢，那就说来话长了
 
-总之，你可以叫我lijiakajun，亦或者叫我+也行
+总之，你可以叫我lijiakajun，亦或者叫我lijia也行，再或者直接叫我wln即可~
 
 PS:这个人曾经改过名字，所以现在的昵称和之前的名字有一定的联系www
 
