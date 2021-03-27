@@ -52,3 +52,7 @@ PS:这个人曾经改过名字，所以现在的昵称和之前的名字有一�
 网站链接🔗在左，好多写的比较水，见谅~
 
 <!--看下我关注的-->
+
+---
+
+[![](https://chat.getloli.com/room/@lijiakaijun/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=lijiakaijun@getloli.com:%20~)](https://chat.getloli.com/room/@lijiakaijun)
