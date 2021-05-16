@@ -19,7 +19,7 @@ I am a Chinese. Now I am a middle school student in Foshan.
 In September I will go to a High school or vocational high school. It depends on my grades in the high school entrance examination. So, no time to on Internet now.(Yes? It not true!HaHa~)
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiajunljj&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiajunljj">
 </a>
 
 **I'm not a powerful developer!!! I'm not a powerful developer!!! I'm not a powerful developer!!!** ~~Because of the Github Pages, I use the account.~~
