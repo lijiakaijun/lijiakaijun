@@ -14,15 +14,11 @@ Hello~
 
 I am lijiakaijun.Good to see you.
 
-I am a Chinese. Now I am a middle school student in Foshan.
+I am a Chinese. Now I am a middle school student in Foshan but I was graduated.
 
-In September I will go to a High school or vocational high school. It depends on my grades in the high school entrance examination.
+In September I will go to a High school or vocational high school.
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiajunljj">
-</a>
-
-**I'm not a powerful developer!!! I'm not a powerful developer!!! I'm not a powerful developer!!!** ~~Because of the Github Pages, I use the account.~~
+**I'm not a powerful developer!!! I'm not a powerful developer!!! I'm not a powerful developer!!!**  ~~I use the account because of the Github Pages.~~
 
 But I'm already learning the code.
 
@@ -42,14 +38,10 @@ You can find me at the link provided below.
 
 I don't know English so usually I use Baidu Translate or Google Translate if you talk in English or other language.
 
-[Twitter](https://twitter.com/lijiakaijun)  
-
-[Telegram](https://t.me/lijia)  
+[Twitter](https://twitter.com/lijia_kai)  
 
 [BiliBili](https://space.bilibili.com/480198701)
 
 [My Blog(zh-cn)](https://blog.lijiakaijun.cyou)     
 
-[My email(google mail)](mailto://lijiajunljj@gmail.com)
-
-[My email(outlook)](mailto://lijiajunljj@outlook.com)
+Email:lijiajunljj712[at]gmail.com
