@@ -20,6 +20,8 @@ In September I will go to a High school or vocational high school.
 
 
 
+
+
 **I'm not a powerful developer!!! I'm not a powerful developer!!! I'm not a powerful developer!!!**  ~~I use the account because of the Github Pages.~~
 
 But I'm already learning the code.
