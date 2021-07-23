@@ -18,6 +18,8 @@ I am a Chinese. Now I am a middle school student in Foshan but I was graduated.
 
 In September I will go to a High school or vocational high school.
 
+
+
 **I'm not a powerful developer!!! I'm not a powerful developer!!! I'm not a powerful developer!!!**  ~~I use the account because of the Github Pages.~~
 
 But I'm already learning the code.
@@ -25,11 +27,6 @@ But I'm already learning the code.
 I like... hmmm...I like kano! 
 
 [Who is kano? She is a singer in Japan. Click here to wikipedia to know more about kano.](https://ja.wikipedia.org/wiki/%E9%B9%BF%E4%B9%83)
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 ## Contact me
