@@ -1,6 +1,6 @@
 ## This is lijiajunljj's README.md in English.
 
-> lijiakaijun: Can you find me on other place on Internet.
+> lijiakaijun: Can you find me on other place on Internet?
 >
 > 少し休みたいんだ　少し休みたいんだけど 时间は刻一刻残酷と　私を 引っぱっていくんだ 
 >
