@@ -16,7 +16,7 @@ I am lijiakaijun.Good to see you.
 
 I am a Chinese. Now I am a middle school student in Foshan but I was graduated.
 
-In September I will go to a High school or vocational high school.
+In September I will go to a vocational high school. Wish me luck! 😊
 
 <br />
 
