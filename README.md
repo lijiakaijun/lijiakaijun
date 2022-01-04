@@ -1,44 +1,33 @@
-## This is lijiajunljj's README.md in English.
+<p align="center"><b>你好，这里是lijiakaijun / Hello, This is lijiakaijun.</b></p>
 
-> lijiakaijun: Can you find me on other place on Internet?
->
-> 少し休みたいんだ　少し休みたいんだけど 时间は刻一刻残酷と　私を 引っぱっていくんだ 
->
->——A song called アイロニ.<!--https://www.zhihu.com/question/59551582-->
-
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lijiajunljj&count_private=true&include_all_commits=true&show_icons=true">
-</a>
-
-Hello~
-
-I am lijiakaijun.Good to see you.
-
-I am a Chinese. Now I am a middle school student in Foshan but I was graduated.
-
-In September I will go to a vocational high school. Wish me luck! 😊
-
-<br />
-
-**I'm not a powerful developer!!! I'm not a powerful developer!!! I'm not a powerful developer!!!**  ~~I use the account because of the Github Pages.~~
-
-But I'm already learning the code.
-
-I like... hmmm...I like kano! 
-
-[Who is kano? She is a singer in Japan. Click here to wikipedia to know more about kano.](https://ja.wikipedia.org/wiki/%E9%B9%BF%E4%B9%83)
+<p align="center">中文 | <a href="https://github.com/lijiajunljj/lijiajunljj/blob/master/old_files/README.md">English</a></p>
 
 ---
-## Contact me
 
-You can find me at the link provided below. 
+<p align="center">这是一位</p>
+<p align="center"><i>居住在中国广东省</i></p>
+<p align="center"><i>学习计算机平面设计专业</i></p>
+<p align="center"><i>喜欢听鹿乃的歌</i></p>
+<p align="center"><i>不太经常看但依然喜欢一些vtuber</i></p>
+<p align="center"><i>没玩过什么电子游戏</i></p>
+<p align="center"><i>不会写代码</i></p>
+<p align="center"><i>差不多高强度在网络上的一些地方活跃</i></p>
+<p align="center">的普通男生</p>
 
-I don't know English so usually I use Baidu Translate or Google Translate if you talk in English or other language.
+---
 
-[Twitter](https://twitter.com/lijia_kai)  
+好了我写不下去了，以后想到什么我会补充的
 
-[BiliBili](https://space.bilibili.com/480198701)
+想知道更多的可以去[这里（萌娘百科）](https://zh.moegirl.org.cn/User:Lijiakiajun)看看
 
-[My Blog(zh-cn)](https://blog.lijiakaijun.cyou)     
+或者是我的[网站（简体中文）](https://blog.lijiakaijun.cyou)
 
-Email:lijiajunljj712[at]gmail.com
+需要联系我的可以向lijiajunljj712[at]gmail.com投递邮件
+
+Thank you to visit!
+
+---
+
+[ln的循环歌单（QQ Music）](https://y.qq.com/n/ryqq/playlist/7472299373)
+
+<!--仓库本身也有东西访问的w-->
