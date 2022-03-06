@@ -62,4 +62,4 @@ Thank you to visit!
 >——星之回响
 -->
 <!--仓库本身也有东西访问的w-->
-<img src="https://count.getloli.com/get/@lijiakaijun" alt="我看看有多少人访问了这里XD">
+![我看看有多少人访问了这里XD](https://count.getloli.com/get/@lijiakaijun)
