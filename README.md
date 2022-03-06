@@ -1,4 +1,4 @@
-<img align="right" src="https://rcdn.jsdelivr.net/gh/lijiajunljj/lijiajunljj/kanokawaii.jpg"  width='380px' alt="鹿乃卡哇伊！">
+<img align="right" src="https://cdn.jsdelivr.net/gh/lijiajunljj/lijiajunljj/kanokawaii.jpg"  width='380px' alt="鹿乃卡哇伊！">
 
 <p align="center"><b>你好，这里是lijiakaijun / Hello, This is lijiakaijun.</b></p>
 
