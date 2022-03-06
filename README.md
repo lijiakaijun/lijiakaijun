@@ -2,7 +2,7 @@
 
 <p align="center"><b>你好，这里是lijiakaijun / Hello, This is lijiakaijun.</b></p>
 
-<p align="center">中文 | <a href="https://github.com/lijiajunljj/lijiajunljj/blob/master/old_files/README.md">English</a></p>
+<p align="center">中文 | <a href="https://github.com/lijiajunljj/lijiajunljj/blob/master/README(en).md">English</a></p>
 
 ---
 
