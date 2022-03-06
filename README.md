@@ -1,3 +1,5 @@
+<img align="right" src="https://count.getloli.com/get/@lijiakaijun" alt="我看看有多少人访问了这里XD">
+
 <p align="center"><b>你好，这里是lijiakaijun / Hello, This is lijiakaijun.</b></p>
 
 <p align="center">中文 | <a href="https://github.com/lijiajunljj/lijiajunljj/blob/master/old_files/README.md">English</a></p>
@@ -14,6 +16,7 @@
 <p align="center"><i>差不多高强度在网络上的一些地方活跃</i></p>
 <p align="center">的普通男生</p>
 
+  
 ---
 
 > 少し歩き疲れたんだ
