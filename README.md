@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@lijiakaijun" alt="我看看有多少人访问了这里XD">
+<img align="right" src="https://raw.githubusercontent.com/lijiajunljj/lijiajunljj/master/kanokawaii.jpg"  width='380px' alt="鹿乃卡哇伊！">
 
 <p align="center"><b>你好，这里是lijiakaijun / Hello, This is lijiakaijun.</b></p>
 
@@ -62,3 +62,4 @@ Thank you to visit!
 >——星之回响
 -->
 <!--仓库本身也有东西访问的w-->
+<img src="https://count.getloli.com/get/@lijiakaijun" alt="我看看有多少人访问了这里XD">
