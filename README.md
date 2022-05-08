@@ -13,7 +13,7 @@
 <p align="center"><i>不太经常看但依然喜欢一些vtuber</i></p>
 <p align="center"><i>没玩过什么电子游戏</i></p>
 <p align="center"><i>不会写代码</i></p>
-<p align="center"><i>差不多高强度在网络上的一些地方活跃</i></p>
+<p align="center"><i>差不多在网络上的一些地方高强度活跃</i></p>
 <p align="center">的普通男生</p>
 
   
@@ -45,21 +45,18 @@
 
 或者是我的[网站（简体中文）](https://blog.lijiakaijun.cyou)
 
-需要联系我的可以向lijiajunljj712[at]gmail.com投递邮件
+需要联系我的可以通过旁边的链接，或者是[网站](https://blog.lijiakaijun.cyou)左侧的链接以联系我（确信）
 
 Thank you to visit!
 
 ---
 
 [ln的循环歌单（QQ Music）](https://y.qq.com/n/ryqq/playlist/7472299373)
-<!--
->在同一片星空下面
->
->这首歌代替话语万千
->
->多希望 能够和你 一起唱
->
->——星之回响
--->
 <!--仓库本身也有东西访问的w-->
 ![我看看有多少人访问了这里XD](https://count.getloli.com/get/@lijiakaijun)
+
+---
+
+在同一片星空下面 这首歌代替话语万千
+多希望能够和你 一起唱
+——[星之回响](https://www.bilibili.com/video/av78978587)
