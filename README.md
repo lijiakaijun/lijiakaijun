@@ -2,6 +2,8 @@
 
 <p align="center"><b>你好，这里是lijiakaijun / Hello, This is lijiakaijun.</b></p>
 
+<p align="center">Like かの(kano), enjoy life. / 像鹿乃，享受生活。</a></p>
+
 <p align="center">中文 | <a href="https://github.com/lijiajunljj/lijiajunljj/blob/master/README(en).md">English</a></p>
 
 ---
