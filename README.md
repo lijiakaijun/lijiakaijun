@@ -9,7 +9,6 @@
 ---
 
 <p align="center">这是一位</p>
-<p align="center"><i>居住在中国广东省</i></p>
 <p align="center"><i>学习计算机平面设计专业</i></p>
 <p align="center"><i>喜欢听鹿乃的歌</i></p>
 <p align="center"><i>不太经常看但依然喜欢一些vtuber</i></p>
@@ -54,7 +53,7 @@ Thank you to visit!
 ---
 
 [ln的循环歌单（QQ Music）](https://web.archive.org/web/20220626042332/https://y.qq.com/n/ryqq/playlist/7472299373)
-<!--仓库本身也有东西访问的w-->
+<!--仓库本身也有东西访问的-->
 ![我看看有多少人访问了这里XD](https://count.getloli.com/get/@lijiakaijun)
 
 ---
