@@ -52,7 +52,6 @@ Thank you to visit!
 
 ---
 
-[ln的循环歌单（QQ Music）](https://web.archive.org/web/20220626042332/https://y.qq.com/n/ryqq/playlist/7472299373)
 <!--仓库本身也有东西访问的-->
 ![我看看有多少人访问了这里XD](https://count.getloli.com/get/@lijiakaijun)
 
