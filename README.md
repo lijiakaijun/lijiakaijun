@@ -9,7 +9,6 @@
 ---
 
 <p align="center">这是一位</p>
-<p align="center"><i>学习计算机平面设计专业</i></p>
 <p align="center"><i>喜欢听鹿乃的歌</i></p>
 <p align="center"><i>不太经常看但依然喜欢一些vtuber</i></p>
 <p align="center"><i>没玩过什么电子游戏</i></p>
@@ -39,6 +38,7 @@
 >——アイロニ
 
 ---
+<!--
 
 好了我写不下去了，以后想到什么我会补充的
 
@@ -49,7 +49,7 @@
 需要联系我的可以通过旁边的链接，或者是[网站](https://blog.lijiakaijun.cyou)左侧的链接以联系我（确信）
 
 Thank you to visit!
-
+-->
 ---
 
 <!--仓库本身也有东西访问的-->
